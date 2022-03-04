@@ -1,0 +1,91 @@
+*{
+  margin:0;
+  padding:0;
+  text-decoration: none;
+  font-family:"montserrat";
+  
+}
+
+.middle{
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+
+}
+.card{
+  cursor:pointer;
+  width:300px;
+  height:400px;
+ 
+  background-color: black;
+  background-position: 50% 50%;
+
+}
+.front,.back{
+  width:100%;
+  height:100%;
+  overflow:hidden;
+  backface-visibility:hidden;
+  position:absolute;
+  transition:transform 1s linear;
+}
+.front{
+  height:80%;
+ background-size: cover;
+
+  background-position: 50% 10%;
+  border: 20px rgba(155,93,229,0.5) solid;
+  border-radius: 50%;
+
+}
+.front{
+  transform:perspective(600px) rotateY(0deg);
+}
+.back{
+  background-image:url('https://cdn.pixabay.com/photo/2020/08/14/17/13/light-bulbs-5488573_960_720.jpg');
+  height:80%;
+  border-radius: 50%;
+
+  transform: perspective(600px) rotateY(180deg);
+ 
+}
+
+.back-content{
+  color:white;
+  background-color:transparent;
+  text-align:center;
+  width:100%;
+}
+.sm{
+  margin:20px 0;
+}
+.sn a{
+  display:inline-flex;
+  width:40px;
+  height:40px;
+  justify-content:center;
+  align-items: center;
+  color:#2c3e50;
+  font-size:18px;
+  transition:0.4s;
+  border-radius:50%;
+
+}
+
+.sn a:hover{
+  background:white;
+  color:purple;
+  box-shadow: hsla(20, 10, 5, 0);
+
+}
+
+.card:hover > .front{
+  transform: perspective(600px) rotateY(-180deg);
+  
+}.card:hover > .back{
+  transform: perspective(600px) rotateY(0deg);
+}
+.sn #hide{
+  display: none;
+}

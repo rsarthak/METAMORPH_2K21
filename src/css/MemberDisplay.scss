@@ -1,0 +1,46 @@
+.thi {
+  height: 100vh;
+}
+.embla {
+  overflow: hidden;
+}
+.embla__container {
+  display: flex;
+  width: 100vw;
+  
+
+  position: relative;
+  left: -40vw; /*This is used to set position of container*/
+}
+.embla__slide {
+  position: relative;
+  left: 0;
+  width: 200px;
+  margin-left: 150px;
+}
+#final{
+    color: #9b5de5;
+}
+@media screen and (max-width: 600px) {
+//   .embla {
+//     height: 200vh;
+//     position: absolute;
+//     top: 450vh;
+//   }
+
+.embla__slide {
+    position: relative;
+    left: 0;
+    width: 200px;
+    margin-left: 150px;
+  }
+  .embla__container {
+    display: flex;
+    width: 200vw;
+  }
+  .finalyr{
+      position: relative;
+      top:10vh;
+      margin-top: 15vh;
+  }
+}

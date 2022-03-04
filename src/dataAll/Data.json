@@ -1,0 +1,64 @@
+[
+    {
+
+
+        "id":1,
+        "cornertext":"Event_#1",
+        "Text":"Alchemist",
+        "Para":"Team METAMORPH brings to you a very omnific and exhilarating event. In this event, participants will enter a virtual portal and be provided with a challenge statement, as well as a plethora of seemingly everyday items. Using their knowledge about the properties of the materials the participants will have to pick one of the given items and then provide an explanation for how they will solve the task with the material in hand. Choose correctly and move onto the next level where another challenging statement awaits them until they complete all the rounds of increasing complexity.        ",
+        "Description":"General Aptitude,Chemistry,Observation",
+        "brcolor":"#ff2800",
+        "link":"https://docs.google.com/forms/d/e/1FAIpQLSevhhLNljTM7ap8CoHYMYllxMWDCgollUz4-25g8778HikodQ/viewform",
+        "icon":"pen",
+        "linktext":"Register Now",
+        "date":"9 April",
+        "photo":"https://wallpapersplanet.net/sites/default/files/black-and-red-abstract-wallpapers-33969-7240347.png"
+
+    },
+     
+    {
+        "id":2,
+        "cornertext":"Event_#2",
+        "Text":"Zoomed In",
+        "Para":"In this event, you need to guess the object in the zoomed image from the options given and you will get 10 points for every single round. The one with the highest points will be announced as the winner. If at the end there are two participants with the same points then the one with lesser time will be declared as the winner.        ",
+        "Description":"General Awareness,Intelligence,Knowledge",
+        "brcolor":"#0000cd",
+        "date":"9 April",
+        "icon":"pen",
+        "linktext":"Register Now",
+       
+        "link":"https://docs.google.com/forms/d/e/1FAIpQLSdn6D-XHqipxnpQn9ohJgwCdvh34zpeFle7qr3Ak7gevLWD3g/viewform",
+        "photo":"https://cdn.pixabay.com/photo/2017/11/11/11/30/chemistry-2938901_960_720.jpg"
+
+    },
+    
+    {
+        "id":3,
+        "cornertext":"Event_#3",
+        "Text":"What a Drag",
+        "Para":" This is an intriguing event where the participant learns. The player's character is a globule (can be either hydrophilic and oleophobic(oil fearing) or oleophilic(oil-loving) and hydrophobic, a player can choose any and has to stick with it. The globule resides in an emulsion universe i.e. a non-homogeneous mixture of oil and water bounded by the walls of the container. The player has to knock all the pins in the game (maybe throw them towards the wall so that they shatter).        ",
+        "Description":"Emulsion,Physics,High School Chemistry",
+        "date":"9 April",
+        "icon":"pen",
+        "linktext":"Register Now",
+        "brcolor":"#",
+        
+        "link":"https://docs.google.com/forms/d/e/1FAIpQLSdkWLWOZNwuBVhs97pZfwgRHJspstiiHVYjk3rgGpA68qStHQ/viewform",
+        "photo":"https://cdn.pixabay.com/photo/2019/03/15/00/25/liquid-4056190_960_720.png"
+
+    },
+    {
+        "id":4,
+        "cornertext":"Event_#4",
+        "Text":"Guest Lecture",
+        "Para":"Dr Vijay Kumar Thakur is a multifaceted and dedicated professional with a vigorous personality. In his academic career, he has published 200 SCI journal research articles and holds 1 United State patent and he has also published 50 books and 40 book chapters like the prominent books cellulose-based graft copolymers, applied materials today, and many many more. This Nimbus, we are honoured to have the recipient of numerous prestigious awards and one of the most astounding alumni of our Institute Mr Vijay Kumar Thakur. With great honour, Team Meta Morph welcomes this unpretentious personality to a panel of speakers giving us a fascinating and absorbing session on Bio-based and Functional polymers: The next generation Materials for a circular bio-economy        ",
+        "Description":"   Guest Lecture by Dr. Vijay Kumar Thakur",
+        "brcolor":"#8a2be2",
+        "date":"4 April",
+        "icon":"pen",
+        "linktext":"Register Now",
+        "link":"https://www.airmeet.com/e/f0b564d0-9146-11eb-8914-9bc5327c1876",
+        "photo":"https://cdn.pixabay.com/photo/2013/05/24/16/28/flash-113310_960_720.jpg"
+
+    }
+]
