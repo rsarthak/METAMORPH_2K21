@@ -9,6 +9,7 @@ import MemberFourth from "./MemberFourth";
 import MemberThird from './MemberThird'
 import MemberSecond from "./MemberSecond";
 import MemberFirst from "./MemberFirst";
+import Snowfall from "react-snowfall";
 function MemberDisplay(){
   
   
@@ -18,11 +19,15 @@ function MemberDisplay(){
   return (
     
       <div >
-        
+        <Snowfall/>
         <MemberFourth />
+     
         <MemberThird />
+       
         <MemberSecond />
+       
         <MemberFirst />
+        <Snowfall/>
       
         </div>
 

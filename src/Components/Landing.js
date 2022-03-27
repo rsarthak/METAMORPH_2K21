@@ -1,7 +1,7 @@
 import React,{useRef,useEffect} from 'react'
 import '../css/Landing.scss'
 import {gsap} from 'gsap'
-import Robot from "../images/AB.svg"
+// import Robot from "../images/AB.svg"
 import Loader from './Loader'
 import {NavLink} from 'react-router-dom';
 // import Particles from 'react-particles-js';
@@ -32,7 +32,7 @@ function Landing() {
                         </div>
                     </div>
                     <div className="col-md-8 Robot">
-                        <object type="image/svg+xml" data={Robot} className="Robo"></object>
+                        {/* <object type="image/svg+xml" data={Robot} className="Robo"></object> */}
                     </div>
                 </div>
             </div>

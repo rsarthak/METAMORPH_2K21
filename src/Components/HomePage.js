@@ -6,7 +6,7 @@ import Events from './Events'
 import Project from './Project'
 import Carousel from './Carousel'
 import gsap from 'gsap'
-import Gif from "../images/AB.svg"
+// import Gif from "../images/AB.svg"
 import InfoCard from './InfoCard'
 import Workshops from './Workshops'
 import {BrowserRouter as Router,Switch,Route} from 'react-router-dom'

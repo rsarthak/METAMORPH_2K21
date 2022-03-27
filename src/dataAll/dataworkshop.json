@@ -2,14 +2,14 @@
   {
     "id": 1,
     "cornertext": "Workshop_#1",
-    "Text": "Material Characterisation \t  Workshop",
+    "Text": "Gaussian Workshop",
     "Para": "Hola Nitians !! Curious about learning surface topography and composition? Are you interested in analyzing material properties? Well !! Team Metamorph presents you with an opportunity to learn all these things. Team Metamorph is organizing an informative and exciting workshop on Material Characterisation for you people. Remember, ‘As we gain knowledge about materials and processes in the universe, this could open up the benefits that we can’t even imagine’.These materials serve every branch of engineering and medical sciences. So every society of engineering and medical sciences is relying on these materials. This workshop is all about digging into material properties. 'Knowledge is power and here in this workshop, you will get convenient information about the application of material characterization, principle, and application of optical microscope, SEM, and TEM. So buckle up and don't miss out on the opportunity to dive into the world of materials and their properties.    ",
     "Description": "Succesful Workshop With 150+ Participation.",
-    "brcolor": "#ff0090",
+    "brcolor": "blue",
     "date": "28 March",
     "icon": "times",
 
     "linktext": "Registrations Closed",
-    "photo": "http://upload.wikimedia.org/wikipedia/commons/2/26/Plasma-lamp_2.jpg"
+    "photo": "https://cdn.wallpapersafari.com/57/8/w2QjqT.jpg"
   }
 ]

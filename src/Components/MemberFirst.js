@@ -4,11 +4,14 @@ import MemberCard from "./MemberCard";
 import { useEmblaCarousel } from "embla-carousel/react";
 // import four from "../dataAll/MemberData4.json";
 import one from "../dataAll/MemberData1.json";
+import Snowfall from "react-snowfall";
 
 const MemberSecond = () => {
   const first = one.map((infor) => (
     <div className="embla__slide">
+     
       <MemberCard infor={infor} />
+     
     </div>
   ));
   // const third = three.map((infor) => (

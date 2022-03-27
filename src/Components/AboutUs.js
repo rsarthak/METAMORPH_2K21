@@ -546,6 +546,46 @@ function AboutUs() {
             </div>
           </li>
           <div style={{ clear: "both" }}></div>
+
+          <li>
+            <div class="content12">
+              <h3>Conclusion 2021</h3>
+              <p id="paratime">
+              We acquired a lot of informative knowledge this year. We learn how to combine different disciplines of science to help mankind in different ways. We perform various simulation based projects, and new technology.
+
+              </p>
+            </div>
+            <div class="time">
+              <h4>April 2021</h4>
+            </div>
+          </li>
+          <li>
+            <div class="content12">
+              <h3>NIMBUS 2021</h3>
+              <p id="paratime">
+              Short video series on Instagram page on "Advancement in food packaging technology".
+In this we see how innovative food packaging techniques help us to prolong shelf life and maintain the quality and to regulate freshness of food products.
+<br />" <br />  {" "}
+              </p>
+            </div>
+            <div class="time">
+              <h4>May 2021</h4>
+            </div>
+          </li>
+          <div style={{ clear: "both" }}></div>
+          <li>
+            <div class="content12">
+              <h3>Conclusion 2021</h3>
+              <p id="paratime">
+              We acquired a lot of informative knowledge this year. We learn how to combine different disciplines of science to help mankind in different ways. We perform various simulation based projects, and new technology.
+
+              </p>
+            </div>
+            <div class="time">
+              <h4>April 2021</h4>
+            </div>
+          </li>
+          
         </ul>
       </div>
     </div>

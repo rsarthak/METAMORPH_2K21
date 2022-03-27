@@ -16,6 +16,7 @@ import FaqDisplay from './Components/FaqDisplay';
 import MemberDisplay from './Components/MemberDisplay';
 import MemberAll from './Components/MemberDisplay';
 import Loader from './Components/MemberDisplay';
+// import Team from './Components/Team';
 
 
 
@@ -28,9 +29,10 @@ function App() {
         <Navbar />
         <Switch>
        
-          <Route path="/" exact component={Landing} />
+        <Route path="/" exact component={Project} />
+          {/* <Route path="/M" exact component={Team} /> */}
           <Route path="/Events" component={Events} />
-          <Route path="/Projects" component={Project} />
+         
           <Route path="/Workshops" component={Workshops} />
           <Route path="/Gallery" component={Carousel} />
           <Route path="/AboutUs" component={AboutUs} />

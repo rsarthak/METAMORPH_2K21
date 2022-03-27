@@ -5,6 +5,7 @@ import InfoCard from './InfoCard'
 import dataProject from '../dataAll/dataProject.json'
 import {gsap} from 'gsap'
 import ScrollTrigger from 'gsap/ScrollTrigger'
+import Snowfall from 'react-snowfall'
 function Project() {
 
     useEffect(() => {      
@@ -39,8 +40,11 @@ function Project() {
         <div className="eventCard"  id="particles-js">
             <h1 id="ttl">Projects</h1>
            <div className="container">
+               <Snowfall/>
                <div className="row">
+               <Snowfall/>
                         {personList}
+                        <Snowfall/>
                </div>
            </div>
         </div>
