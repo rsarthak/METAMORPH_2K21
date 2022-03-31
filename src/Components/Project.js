@@ -6,6 +6,7 @@ import dataProject from '../dataAll/dataProject.json'
 import {gsap} from 'gsap'
 import ScrollTrigger from 'gsap/ScrollTrigger'
 import Snowfall from 'react-snowfall'
+
 function Project() {
 
     useEffect(() => {      

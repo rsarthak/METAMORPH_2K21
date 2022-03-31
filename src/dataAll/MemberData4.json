@@ -4,8 +4,8 @@
     "name": "Abhay Raj Singh",
     "INSTAGRAM": "definitely_fake_id",
     "LINKEDIN": "https://www.linkedin.com/in/rathod-sahaab",
-    "about": "Core-Coordinator",
-    "bcol": "rgba(0,255,255,0.4)",
+    "about": "President",
+    "bcol": "yellow",
     "opacity": "1"
   },
   {
@@ -13,8 +13,8 @@
     "name": "Parshant Bhardwaj",
     "INSTAGRAM": "parshant9546",
     "LINKEDIN": "https://in.linkedin.com/in/parshant-bhardwaj-mse-11301918b",
-    "about": "Core-Coordinator",
-    "bcol": "rgba(0,255,255,0.4)",
+    "about": "President",
+    "bcol": "yellow",
     "opacity": "1"
   },
   {
@@ -22,35 +22,35 @@
     "name": "Akshit Gupta",
     "INSTAGRAM": "akshitgupta24",
     "LINKEDIN": "https://www.linkedin.com/in/akshit-gupta-348b0a142",
-    "about": "Coordinator"
+    "about": "Final Year Member"
   },
   {
     "photo": "https://drive.google.com/uc?export=view&id=1OMBgpUfU6e3gOPp45xTvZe64Zjup3JGQ",
     "name": "Arnav Chauhan",
     "INSTAGRAM": "arnav_chauhan09",
     "LINKEDIN": "https://www.linkedin.com/in/arnav-chauhan-96a016185/",
-    "about": "Coordinator"
+    "about": "Final Year Member"
   },
   {
     "photo": "https://drive.google.com/uc?export=view&id=18dPhAuoGkMfqsebZZrJBpMxQkTkHInB9",
     "name": "Gangu Srinivas Rao",
     "INSTAGRAM": "GANGU SRINU",
     "LINKEDIN": "https://www.linkedin.com/in/gangu-srinu-823469197",
-    "about": "Coordinator"
+    "about": "Final Year Member"
   },
   {
     "photo": "https://drive.google.com/uc?export=view&id=1dV5olGH9gONzs2OTOjspmaJzWxgPjS6D",
     "name": "Akshat Uppal",
     "INSTAGRAM": "akshat_uppal",
     "LINKEDIN":"https://www.linkedin.com/in/akshat-uppal-b211b8171",
-    "about": "Coordinator"
+    "about": "Final Year Member"
   },
   {
     "photo": "https://drive.google.com/uc?export=view&id=18rNCf-vIc4FcdwNf8nMLj6Y1s7Y2X52B",
     "name": "Ashish Sharma",
     "INSTAGRAM": "im_ash03",
     "LINKEDIN": " https://www.linkedin.com/in/ashish2205",
-    "about": "Coordinator"
+    "about": "Final Year Member"
   },
 
   {
@@ -58,7 +58,7 @@
     "name": "Kartik",
     "INSTAGRAM": "kartikpabdi",
     "LINKEDIN": " https://www.linkedin.com/in/kartik-meena-b672461bb",
-    "about": "Coordinator"
+    "about": "Final Year Member"
   },
 
   {
@@ -66,7 +66,7 @@
     "name": "Ashish Kumar",
     "INSTAGRAM": "ashishh008",
     "LINKEDIN": " https://www.linkedin.com/in/ashish-kumar-659119174",
-    "about": "Coordinator"
+    "about": "Final Year Member"
   },
 
   {
@@ -74,7 +74,7 @@
     "name": "Aakanksha",
     "INSTAGRAM": "",
      "dispi":"hide","displ":"hide",
-    "about": "Coordinator"
+    "about": "Final Year Member"
   },
   
   {
@@ -82,27 +82,27 @@
     "name": "Priyanka Lohiya",
     "INSTAGRAM": "",
      "dispi":"hide","displ":"hide",
-    "about": "Coordinator"
+    "about": "Final Year Member"
   },
   {
     "photo": "https://drive.google.com/uc?export=view&id=11Qg8yUYOPsX_0CxtNRmi_5dCBWJ01_IH",
     "name": "Anubhav Sharma",
     "INSTAGRAM": "",
      "dispi":"hide","displ":"hide",
-    "about": "Coordinator"
+    "about": "Final Year Member"
   },
   {
     "photo": "https://drive.google.com/uc?export=view&id=1NiMhNlyqXNQtSgEl_daW02uZ9ke08KTK",
     "name": "Abhinav Dhiman",
     "INSTAGRAM": "",
      "dispi":"hide","displ":"hide",
-    "about": "Coordinator"
+    "about": "Final Year Member"
   },
   {
     "photo": "https://drive.google.com/uc?export=view&id=1_1rIs0axij7x4KO2oep_O0kSbVagehXq",
     "name": "Adarsh Patkar",
     "INSTAGRAM": "",
      "dispi":"hide","displ":"hide",
-    "about": "Coordinator"
+    "about": "Final Year Member"
   }
 ]

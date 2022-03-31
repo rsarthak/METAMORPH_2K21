@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import HomePage from './Components/HomePage'
 import Projects from './Components/Projects'
@@ -16,7 +16,7 @@ import FaqDisplay from './Components/FaqDisplay';
 import MemberDisplay from './Components/MemberDisplay';
 import MemberAll from './Components/MemberDisplay';
 import Loader from './Components/MemberDisplay';
-// import Team from './Components/Team';
+import Rahul from './Components/Rahul';
 
 
 
@@ -30,7 +30,7 @@ function App() {
         <Switch>
        
         <Route path="/" exact component={Project} />
-          {/* <Route path="/M" exact component={Team} /> */}
+          <Route path="/M" exact component={Rahul} />
           <Route path="/Events" component={Events} />
          
           <Route path="/Workshops" component={Workshops} />

@@ -7,8 +7,8 @@
         "Text":"Anti Tremor Glove Using Piezoelectric Material",
         "Para":"This Nimbus Team Metamorph brings an Anti Tremor Glove Using Piezoelectric Material. Parkinson's disease is a progressive neuron system disorder that affects dopamine producing neurons. Tremors are one of the visible features of Parkinsons's disease and it adversely affects the ability to perform activities of daily living and simple tasks at home and work. The use of gloves may be an economical and effective way of reducing tremor. This project will be exhibited using a model developed by our team and live demonstration will be conducted for better understanding of this device.  ",
         "Description":"Piezoelectricity,Physics",
-        "brcolor":"green",
-        "photo":"https://cdn.pixabay.com/photo/2018/03/29/19/34/northern-lights-3273425_960_720.jpg"
+        "brcolor":"blue",
+        "photo":"https://wallpapermemory.com/uploads/456/circuit-wallpaper-1080p-89586.jpg"
     },
     {
         "id":2,
@@ -17,7 +17,7 @@
         "Para":"Bandgap Prediction Using Machine Learning which helps in selecting proper electric materials. By using crystal features to predict the band gap of a material and for this we are going to use machine learning. To visualize the material we open these files in softwares like Vesta, Material studio and many more. Machine Learning is used to either predict the property of the materials or to classify it. Here, we are using it to predict hte property of the material i.e Band gap and to do so we are going to use supervised learning.",
         "Description":"Sir will add",
         "brcolor":"blue",
-        "photo":"https://media.istockphoto.com/photos/circuit-board-picture-id1145585734?k=20&m=1145585734&s=612x612&w=0&h=BWthKyWj7tFIH_hixXUXW-Gqo5Q2gxFoYCj6XSUNB2A="
+        "photo":"https://wallpapercave.com/wp/wp2823483.jpg"
     },
     {
         "id":3,
@@ -25,8 +25,8 @@
         "Text":" Bone Replacement",
         "Para":"Bone Replacement to solve the problem of joint replacement and will reduce the chances for another more surgery. Bio-inert biomaterials show a great performance especially in fixation applications, they bring an important problem into the play: they remain in the body forever or require additional surgery to remove them. The current model can be used as an important tool to find the appropriate design and degradation properties of the metallic implants for different biomedical applications.  ",
         "Description":"Sir will add",
-        "brcolor":"blue",
-        "photo":"https://cdn.pixabay.com/photo/2013/07/18/10/59/human-skeleton-163715_960_720.jpg"
+        "brcolor":"red",
+        "photo":"https://media.istockphoto.com/photos/digital-cyberspace-with-particles-and-digital-data-network-concept-picture-id1286943532?k=20&m=1286943532&s=612x612&w=0&h=yhhrMQnnFH15wTJyX0fgBqrBtQvIXX_lYUEnq1dDr-k="
     },
     {
         "id":4,
@@ -34,8 +34,8 @@
         "Text":"Thermistor Fire Alarm",
         "Para":"Thermistor Fire Alarm to detect material property change in models subject to adverse temperature and environmental changes. As we know temperature is a key physical metric that is associated with all fields of science. It i sgenerally linked with safety and performance. The temperature of the operating device governs its performance and reliability. A fire alarm system consists of a group of devices working together to detect fires and warn people through visual and audio appliances when smoke, fire, carbon monoxide or other emergencies are present. These alarms may be activated automatically using smoke detectors, heat detectors or even through manual fire alarm activation devices such as manual call points or pull stations. We mix Zinc Oxide and Lanthanum Oxide at room temperature followed by ball milling. This generates nanoparticles of the final powder mixture. Pellets are fabricated from the ZO + LO mixture. A thermocouple wire is inserted at the ends of the pellet. This is connected to a multimeter. voltage and current are determined as a function of temperature. ",
         "Description":"Sir will add",
-        "brcolor":"red",
-        "photo":"https://wallpaperaccess.com/full/448629.jpg"
+        "brcolor":"Blue",
+        "photo":"https://wallpapercave.com/wp/wp9153613.jpg"
     },
     {
         "id":5,
@@ -43,8 +43,8 @@
         "Text":"Railway Track Cracks Detection System ",  
         "Para":"Railway Track Cracks Detection System to detect cracks without manual inspection. Detection of railway track cracks is mandatory nowadays since in most of the cases the railway tracks run in remote places where manual checking of track quality and health condition is not feasible all the time. It is important to monitor the track health condition frequently using an automated crack detection system. The proposed framework focuses on implementing a MATLAB model to detect the railway track cracks through image processing techniques. As an added advantage we also focus on creating a seperate model which will predict the internal cracks through thermal image processing techniques.",
         "Description":"Sir will add",
-        "brcolor":"white",
-        "photo":"https://cdn.pixabay.com/photo/2016/10/10/14/44/train-1728537_960_720.jpg"
+        "brcolor":"pink",
+        "photo":"https://cdn3.vectorstock.com/i/1000x1000/84/97/abstract-purple-tech-background-vector-668497.jpg"
     },
     {
         "id":6,
@@ -53,6 +53,6 @@
         "Para":"Composites are materials characterized by complex failure phenomena that onset and interact. The aim of this work is to analyze the behaviour of a composite structure taking into account the damage onset and evolution. The analysis is performed by using  LS-DYNA developed and implemented in the Finite element software ANSYS. The accuracy of the procedure proposed is assessed by comparing numerical results and experimental data tkaen from literature. ",
         "Description":"Sir will add",
         "brcolor":"#00f5f5",
-        "photo":"https://cdn.pixabay.com/photo/2012/11/28/11/28/rocket-67724_960_720.jpg"
+        "photo":"https://wallpaperaccess.com/full/5344399.png"
     }
 ]

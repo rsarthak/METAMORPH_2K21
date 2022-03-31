@@ -51,14 +51,29 @@
         "id":4,
         "cornertext":"Event_#4",
         "Text":"Guest Lecture",
-        "Para":"Dr Vijay Kumar Thakur is a multifaceted and dedicated professional with a vigorous personality. In his academic career, he has published 200 SCI journal research articles and holds 1 United State patent and he has also published 50 books and 40 book chapters like the prominent books cellulose-based graft copolymers, applied materials today, and many many more. This Nimbus, we are honoured to have the recipient of numerous prestigious awards and one of the most astounding alumni of our Institute Mr Vijay Kumar Thakur. With great honour, Team Meta Morph welcomes this unpretentious personality to a panel of speakers giving us a fascinating and absorbing session on Bio-based and Functional polymers: The next generation Materials for a circular bio-economy        ",
+        "Para":"You can either watch your life happen from sidelines or participate in it. - Kapil Kulshrestha . Team Meta Morph is really thrilled to have Kapil Kulshrestha sir (Founder CEO of Scintillate) as a guest for a very interactive and engrossing lecture related to Public speaking career development, leadership and so more.The platform for this session will be YouTube at  official channel of Team Meta Morph.   ",
         "Description":"   Guest Lecture by Kapil Kulsreshta",
         "brcolor":"white",
         "date":"4 April",
         "icon":"pen",
         "linktext":"Register Now",
         "link":"https://www.airmeet.com/e/f0b564d0-9146-11eb-8914-9bc5327c1876",
-        "photo":"https://cdn.pixabay.com/photo/2019/04/14/10/27/book-4126483_960_720.jpg"
+        "photo":"https://www.pixel4k.com/wp-content/uploads/2019/12/scifi-city-robot_1575662692.jpg"
+
+    },
+    {
+        "id":5,
+        "cornertext":"Event_#5",
+        "Text":"Guest Lecture",
+        "Para":"You can either watch your life happen from sidelines or participate in it. - Kapil Kulshrestha . Team Meta Morph is really thrilled to have Kapil Kulshrestha sir (Founder CEO of Scintillate) as a guest for a very interactive and engrossing lecture related to Public speaking career development, leadership and so more.The platform for this session will be YouTube at  official channel of Team Meta Morph.   ",
+        "Description":"   Guest Lecture by Aditya More (INTEL CORP. U.S.A)",
+        "brcolor":"white",
+        "date":"4 April",
+        "icon":"pen",
+        "linktext":"Register Now",
+        "link":"https://www.airmeet.com/e/f0b564d0-9146-11eb-8914-9bc5327c1876",
+        "photo":"https://cdn.wallpapersafari.com/54/48/UhtDSW.jpg"
 
     }
+    
 ]

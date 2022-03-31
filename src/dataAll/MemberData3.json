@@ -3,27 +3,29 @@
   {"photo":" https://drive.google.com/uc?export=view&id=1-DqpUivdpCi0mPGuO0UFgZyTnQ7t9Auc",
       "name":"Premashish Ghosh",
       "INSTAGRAM":"premashishghosh",
+      "bcol": "white",
       "LINKEDIN":"https://in.linkedin.com/in/premashish-ghosh-aab01b206",
-      "about":"Executive Member" 
+      "about":"Coordinator" 
   },
   {"photo":"https://drive.google.com/uc?export=view&id=1vuRfqFb5CveRwainAM5W3Vfg9fSEigqw",
       "name":"Rahul Bhatia",
       "INSTAGRAM":"r_ah_ul_10",
+      "bcol": "white",
       "LINKEDIN":"https://www.linkedin.com/mwlite/in/rahul-bhatia-98aa211b2",
-      "about":"Executive Member" 
+      "about":"Coordinator" 
   },
   {"photo":" https://drive.google.com/uc?export=view&id=1kXfobnRDNYaydEO9Z96SoGaF6oMICC_P",
       "name":"Pydi Sai Teja",
       "INSTAGRAM":"rebal_str_tej07",
       "LINKEDIN":" https://www.linkedin.com/in/sai-teja-pydi-00483920a",
-      "about":"Executive Member" 
+      "about":"Coordinator" 
   },
   
   {"photo":"https://drive.google.com/uc?export=view&id=1Tejv9lOI5JabXjdFTJuuj6srs3tjTcIv",
       "name":"Swarna Mallika",
       "INSTAGRAM":"Mallika._01",
       "LINKEDIN":"https://www.linkedin.com/in/swarna-mallika-a159a2202",
-      "about":"Executive Member" 
+      "about":"Coordinator" 
   },
  
  
@@ -31,20 +33,20 @@
       "name":"Sakshi Dhiman",
       "INSTAGRAM":"_sakshidhiman",
       "LINKEDIN":"https://www.linkedin.com/in/sakshi-dhiman-0b3600197",
-      "about":"Executive Member" 
+      "about":"Coordinator" 
   },
   {"photo":"https://drive.google.com/uc?export=view&id=1W02pVrxNxMx1nbeREfYJy_NdW3UjUsLL",
       "name":"Suryansh Gautam",
       "INSTAGRAM":"gautam.suryansh",
       "LINKEDIN":"https://www.linkedin.com/in/suryansh-gautam-5aa810174",
-      "about":"Executive Member" ,
+      "about":"Coordinator" ,
       "opacity":".1"
   },
   {"photo":"https://drive.google.com/uc?export=view&id=1wd9JVAqlOJdXM5ckfr3FPpT30jJH0znO",
       "name":"Lakshmipuram Priyanka",
       "INSTAGRAM":"_priyanka__o9",
       "LINKEDIN":" https://www.linkedin.com/in/lakshmipuram-priyanka-ab4a6220a",
-      "about":"Executive Member" 
+      "about":"Coordinator" 
   },
  
   
@@ -52,21 +54,21 @@
       "name":"Naman Sharma",
       "INSTAGRAM":"Naman_vatsyan",
       "LINKEDIN":" https://www.linkedin.com/in/homegym-fitness-9289181a5",
-      "about":"Executive Member" 
+      "about":"Coordinator" 
   },
   
   {"photo":"https://drive.google.com/uc?export=view&id=1cdxh-xCaBL9wntYHN-dmQo5a6fSHVJJT",
       "name":"Bhukya Sri Vardhan",
       "INSTAGRAM":"srivardhan_rockzz",
       "LINKEDIN":"https://www.linkedin.com/in/srivardhan-bhukya-61b3691a4",
-      "about":"Executive Member" 
+      "about":"Coordinator" 
   },
 
   {"photo":"https://drive.google.com/uc?export=view&id=1ZoqTLVkUr5bGe8xffE8gsbmE1MiANf6d",
       "name":"Shreya Choudhary",
       "INSTAGRAM":"Shreyachoudhary1776",
       "LINKEDIN":"https://www.linkedin.com/in/shreya-choudhary-6ba5b420a",
-      "about":"Executive Member" 
+      "about":"Coordinator" 
   },
  
   
@@ -74,27 +76,27 @@
       "name":"Prudhvi Raj",
       "INSTAGRAM":"Prudhvi 2209",
       "LINKEDIN":" https://www.linkedin.com/in/prudhvi-raj-714220197",
-      "about":"Executive Member" 
+      "about":"Coordinator" 
   },
 
   {"photo":"https://drive.google.com/uc?export=view&id=1iELme-A6y6OqE3tenFheG7jVdrqS2ehS",
       "name":"Shashank Kumar",
       "INSTAGRAM":"sha_shank9779",
        "dispi":"show","displ":"hide",
-      "about":"Executive Member" 
+      "about":"Coordinator" 
   },
   {"photo":"https://drive.google.com/uc?export=view&id=1ArD9eVaKzDMuLAl5U8DHoyM9gg9vHH34",
       "name":"Praneet Shiva Sai",
       "INSTAGRAM":"",
        "dispi":"hide","displ":"hide",
-      "about":"Executive Member" 
+      "about":"Coordinator" 
   },
 
   {"photo":"https://drive.google.com/uc?export=view&id=1iPdDMu5GsURg3KGVhhYfMkSsvHa4Tjdc",
       "name":"Rajeev Khan",
       "INSTAGRAM":"",
        "dispi":"hide","displ":"hide",
-      "about":"Executive Member" 
+      "about":"Coordinator" 
   }
 
 ]

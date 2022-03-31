@@ -1,0 +1,93 @@
+.container{
+    height: 100vh;
+    width: 100vw;
+    
+    max-height: 800px;
+    max-width: 1280px;
+    min-height: 600px;
+    min-width: 1000px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top:-40px;
+    margin-left: -500px;
+}
+  
+.border{
+    height: 369px;
+  width: 290px;
+  background: transparent;
+  border-radius: 10px;
+  transition: border 1s;
+  position: relative;
+
+  
+
+  &:hover{
+    border: 1px solid white;
+  }
+}
+
+.card{
+    height: 379px;
+    width: 300px;
+    background: grey;
+    border-radius: 10px;
+    transition: background 0.8s;
+    overflow: hidden;
+    background: black;
+    box-shadow: 0 70px 63px -60px #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+  
+
+.card0{
+    background-image:url('https://o.remove.bg/downloads/8f4069d1-1d34-41cb-809e-3ad38de2f898/WhatsApp_Image_2022-03-24_at_1.38.35_PM-removebg-preview.png');
+    // background-image: url(' https://o.remove.bg/downloads/8f4069d1-1d34-41cb-809e-3ad38de2f898/WhatsApp_Image_2022-03-24_at_1.38.35_PM-removebg-preview.png');
+    background-size: 300px;
+    filter:grayscale(100%);
+
+  
+ 
+
+  &:hover{
+    // background-image:url('https://o.remove.bg/downloads/8f4069d1-1d34-41cb-809e-3ad38de2f898/WhatsApp_Image_2022-03-24_at_1.38.35_PM-removebg-preview.png');
+    // background-image: url(' https://images.unsplash.com/photo-1623230590824-f39e31a0a608?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aW5kaWFuJTIwYm95fGVufDB8fDB8fA%3D%3D&w=1000&q=80') ;
+    background-size: 600px;
+     filter:grayscale(0%);
+  }
+    
+}
+    h2{
+        opacity: 1;
+    }
+     
+
+    .fa{
+        opacity: 1;
+    }
+     
+
+
+.fa{
+    opacity: 0;
+    transition: opacity 1s;
+}
+  
+
+.icons{
+    position: absolute;
+    fill: #fff;
+    color: #fff;
+    height: 130px;
+    top: 226px;
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+  
