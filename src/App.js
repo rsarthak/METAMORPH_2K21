@@ -16,7 +16,7 @@ import FaqDisplay from './Components/FaqDisplay';
 import MemberDisplay from './Components/MemberDisplay';
 import MemberAll from './Components/MemberDisplay';
 import Loader from './Components/MemberDisplay';
-import Rahul from './Components/Rahul';
+
 
 
 
@@ -30,7 +30,7 @@ function App() {
         <Switch>
        
         <Route path="/" exact component={Project} />
-          <Route path="/M" exact component={Rahul} />
+         
           <Route path="/Events" component={Events} />
          
           <Route path="/Workshops" component={Workshops} />
